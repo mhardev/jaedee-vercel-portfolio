@@ -159,7 +159,7 @@ export const projects = [
     description:
       "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Numquam, perspiciatis molestiae. Deleniti accusamus incidunt sapiente perspiciatis odio voluptate? Veniam aut officiis ducimus reiciendis debitis hic deleniti libero laboriosam ea praesentium!",
     image:
-      "https://raw.githubusercontent.com/mhardev/mhardev-v2/main/src/images/Projects/MOTO-JEN/moto-jen-admin.png",
+      "https://raw.githubusercontent.com/jaedeebabe-acorda-lspu/jaedee-vercel-portfolio/main/src/images/Projects/2DArt/AdobePhotoshop/dearest_roshie.png",
     tags: [
       "Adobe Photoshop",
       "2D Arts",
@@ -174,7 +174,7 @@ export const projects = [
     description:
       "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Numquam, perspiciatis molestiae. Deleniti accusamus incidunt sapiente perspiciatis odio voluptate? Veniam aut officiis ducimus reiciendis debitis hic deleniti libero laboriosam ea praesentium!",
     image:
-      "https://raw.githubusercontent.com/mhardev/mhardev-v2/main/src/images/Projects/MOTO-JEN/moto-jen-admin.png",
+      "https://raw.githubusercontent.com/jaedeebabe-acorda-lspu/jaedee-vercel-portfolio/main/src/images/Projects/2DArt/AdobePhotoshop/hbd_Shin.jpg",
     tags: [
       "Adobe Photoshop",
       "2D Arts",
@@ -189,7 +189,7 @@ export const projects = [
     description:
       "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Numquam, perspiciatis molestiae. Deleniti accusamus incidunt sapiente perspiciatis odio voluptate? Veniam aut officiis ducimus reiciendis debitis hic deleniti libero laboriosam ea praesentium!",
     image:
-      "https://raw.githubusercontent.com/mhardev/mhardev-v2/main/src/images/Projects/MOTO-JEN/moto-jen-admin.png",
+      "https://raw.githubusercontent.com/jaedeebabe-acorda-lspu/jaedee-vercel-portfolio/main/src/images/Projects/2DArt/AdobePhotoshop/yue%20bday_1.png",
     tags: [
       "Adobe Photoshop",
       "2D Arts",
