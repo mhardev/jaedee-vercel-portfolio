@@ -180,7 +180,7 @@ export const projects = [
       "2D Arts",
     ],
     category: "2d art",
-    webapp: "https://mobile.moto-jen.online/",
+    webapp: "",
   },
   {
     id: 2,
